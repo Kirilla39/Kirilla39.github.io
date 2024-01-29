@@ -2,6 +2,7 @@
   "months": [
     {
       "name": "Январь",
+      "numeric": 0,
       "days": [
         {"date": 1, "events": [], "isWeekend": false},
         {"date": 2, "events": [], "isWeekend": false},
@@ -42,6 +43,7 @@
     },
     {
       "name": "Февраль",
+      "numeric": 1,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -82,6 +84,7 @@
     },
     {
       "name": "Март",
+      "numeric": 2,
       "days": [{"date": 0, "events": [], "isWeekend": false},
       {"date": 0, "events": [], "isWeekend": false},
       {"date": 0, "events": [], "isWeekend": false},
@@ -121,6 +124,7 @@
     },
     {
       "name": "Апрель",
+      "numeric": 3,
       "days": [
         {"date": 1, "events": [], "isWeekend": false},
         {"date": 2, "events": [], "isWeekend": false},
@@ -162,6 +166,7 @@
     },
     {
       "name": "Май",
+      "numeric": 4,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -202,6 +207,7 @@
     },
     {
       "name": "Июнь",
+      "numeric": 5,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -242,6 +248,7 @@
     },
      {
       "name": "Июль",
+      "numeric": 6,
       "days": [
         {"date": 1, "events": [], "isWeekend": false},
         {"date": 2, "events": [], "isWeekend": false},
@@ -282,6 +289,7 @@
     },
      {
       "name": "Август",
+      "numeric": 7,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -323,6 +331,7 @@
     },
      {
       "name": "Сентябрь",
+      "numeric": 8,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -364,6 +373,7 @@
     },
      {
       "name": "Октябрь",
+      "numeric": 9,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},  
         {"date": 1, "events": [], "isWeekend": false},
@@ -404,6 +414,7 @@
     },
     {
       "name": "Ноябрь",
+      "numeric": 10,
       "days": 
         [{"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -444,6 +455,7 @@
     },
     {
       "name": "Декабрь",
+      "numeric": 11,
       "days": 
         [{"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
