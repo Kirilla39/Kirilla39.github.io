@@ -2,7 +2,8 @@
   "months": [
     {
       "name": "Январь",
-      "numeric": 0,
+      "numeric": 0, "startsWith": 0,
+      "startsWith": 0,
       "days": [
         {"date": 1, "events": [], "isWeekend": false},
         {"date": 2, "events": [], "isWeekend": false},
@@ -43,7 +44,7 @@
     },
     {
       "name": "Февраль",
-      "numeric": 1,
+      "numeric": 1, "startsWith": 3,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -84,7 +85,7 @@
     },
     {
       "name": "Март",
-      "numeric": 2,
+      "numeric": 2, "startsWith": 4,
       "days": [{"date": 0, "events": [], "isWeekend": false},
       {"date": 0, "events": [], "isWeekend": false},
       {"date": 0, "events": [], "isWeekend": false},
@@ -124,7 +125,7 @@
     },
     {
       "name": "Апрель",
-      "numeric": 3,
+      "numeric": 3, "startsWith": 0,
       "days": [
         {"date": 1, "events": [], "isWeekend": false},
         {"date": 2, "events": [], "isWeekend": false},
@@ -166,7 +167,7 @@
     },
     {
       "name": "Май",
-      "numeric": 4,
+      "numeric": 4, "startsWith": 3,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -207,7 +208,7 @@
     },
     {
       "name": "Июнь",
-      "numeric": 5,
+      "numeric": 5, "startsWith": 5,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -248,7 +249,7 @@
     },
      {
       "name": "Июль",
-      "numeric": 6,
+      "numeric": 6, "startsWith": 0,
       "days": [
         {"date": 1, "events": [], "isWeekend": false},
         {"date": 2, "events": [], "isWeekend": false},
@@ -289,7 +290,7 @@
     },
      {
       "name": "Август",
-      "numeric": 7,
+      "numeric": 7, "startsWith": 3,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -331,7 +332,7 @@
     },
      {
       "name": "Сентябрь",
-      "numeric": 8,
+      "numeric": 8, "startsWith": 6,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -373,7 +374,7 @@
     },
      {
       "name": "Октябрь",
-      "numeric": 9,
+      "numeric": 9, "startsWith": 1,
       "days": [
         {"date": 0, "events": [], "isWeekend": false},  
         {"date": 1, "events": [], "isWeekend": false},
@@ -414,7 +415,7 @@
     },
     {
       "name": "Ноябрь",
-      "numeric": 10,
+      "numeric": 10, "startsWith": 4,
       "days": 
         [{"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
@@ -455,7 +456,7 @@
     },
     {
       "name": "Декабрь",
-      "numeric": 11,
+      "numeric": 11, "startsWith": 6,
       "days": 
         [{"date": 0, "events": [], "isWeekend": false},
         {"date": 0, "events": [], "isWeekend": false},
