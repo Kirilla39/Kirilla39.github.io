@@ -2,7 +2,7 @@
   "months": [
     {
       "name": "Январь",
-      "numeric": 0, "startsWith": 0,
+      "numeric": 0,
       "startsWith": 0,
       "days": [
         {"date": 1, "events": [], "isWeekend": false},
